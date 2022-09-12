@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdlib.h": "c"
+    },
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/isakgustavsen/Desktop/inf 1100/Oppgave_2",
+            "binaryPath": "/Users/isakgustavsen/Desktop/inf 1100/Oppgave_2/app",
+            "binaryArgs": []
+        }
+    ]
+}
